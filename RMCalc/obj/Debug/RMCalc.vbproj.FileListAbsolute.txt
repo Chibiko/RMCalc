@@ -1,0 +1,25 @@
+K:\VOLUME_K\my_docs\Visual Studio 2012\Projects\RMCalc\RMCalc\bin\Debug\RMCalc.exe
+K:\VOLUME_K\my_docs\Visual Studio 2012\Projects\RMCalc\RMCalc\bin\Debug\RMCalc.pdb
+K:\VOLUME_K\my_docs\Visual Studio 2012\Projects\RMCalc\RMCalc\bin\Debug\RMCalc.xml
+K:\VOLUME_K\my_docs\Visual Studio 2012\Projects\RMCalc\RMCalc\obj\Debug\RMCalc.About.resources
+K:\VOLUME_K\my_docs\Visual Studio 2012\Projects\RMCalc\RMCalc\obj\Debug\RMCalc.Resources.resources
+K:\VOLUME_K\my_docs\Visual Studio 2012\Projects\RMCalc\RMCalc\obj\Debug\RMCalc.vbproj.GenerateResource.Cache
+K:\VOLUME_K\my_docs\Visual Studio 2012\Projects\RMCalc\RMCalc\obj\Debug\RMCalc.exe
+K:\VOLUME_K\my_docs\Visual Studio 2012\Projects\RMCalc\RMCalc\obj\Debug\RMCalc.xml
+K:\VOLUME_K\my_docs\Visual Studio 2012\Projects\RMCalc\RMCalc\obj\Debug\RMCalc.pdb
+K:\VOLUME_K\my_docs\Visual Studio 2012\Projects\RMCalc\RMCalc\obj\Debug\RMCalc.MainMenu.resources
+K:\VOLUME_K\my_docs\Visual Studio 2012\Projects\RMCalc\RMCalc\obj\Debug\RMCalc.LoadingScreen.resources
+D:\VOLUME_K\my_docs\Visual Studio 2012\Projects\RMCalc\RMCalc\obj\Debug\RMCalc.exe
+D:\VOLUME_K\my_docs\Visual Studio 2012\Projects\RMCalc\RMCalc\obj\Debug\RMCalc.xml
+D:\VOLUME_K\my_docs\Visual Studio 2012\Projects\RMCalc\RMCalc\obj\Debug\RMCalc.pdb
+D:\VOLUME_K\my_docs\Visual Studio 2012\Projects\RMCalc\RMCalc\bin\Debug\RMCalc.exe
+D:\VOLUME_K\my_docs\Visual Studio 2012\Projects\RMCalc\RMCalc\bin\Debug\RMCalc.pdb
+D:\VOLUME_K\my_docs\Visual Studio 2012\Projects\RMCalc\RMCalc\bin\Debug\RMCalc.xml
+D:\VOLUME_K\my_docs\Visual Studio 2012\Projects\RMCalc\RMCalc\obj\Debug\RMCalc.About.resources
+D:\VOLUME_K\my_docs\Visual Studio 2012\Projects\RMCalc\RMCalc\obj\Debug\RMCalc.MainMenu.resources
+D:\VOLUME_K\my_docs\Visual Studio 2012\Projects\RMCalc\RMCalc\obj\Debug\RMCalc.Resources.resources
+D:\VOLUME_K\my_docs\Visual Studio 2012\Projects\RMCalc\RMCalc\obj\Debug\RMCalc.LoadingScreen.resources
+D:\VOLUME_K\my_docs\Visual Studio 2012\Projects\RMCalc\RMCalc\obj\Debug\RMCalc.vbproj.GenerateResource.Cache
+C:\Users\Мелов\Documents\GitHub\RMCalc\RMCalc\obj\Debug\RMCalc.exe
+C:\Users\Мелов\Documents\GitHub\RMCalc\RMCalc\obj\Debug\RMCalc.xml
+C:\Users\Мелов\Documents\GitHub\RMCalc\RMCalc\obj\Debug\RMCalc.pdb
